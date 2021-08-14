@@ -45,7 +45,7 @@ age =14+4
 agee =str(age)
 yourage = 'true'
 while (yourage == 'true'):
-    yourage = input(C+ "You Age: ")
+    yourage = input(C+ "Your Age: ")
     
     if(yourage <= kage):
         hp(G + "You are kid!")
