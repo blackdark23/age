@@ -22,7 +22,7 @@ def hp(s):
 system("clear")
 print('')
 hp('')
-print(C +"Hello!I am S M Shakib Hasan ")
+print(C + "Hello!I am S M Shakib Hasan ")
 Print('')
 hp(R + 'If you want to do the job')
 hp(G + 'And if you love your job.' )
