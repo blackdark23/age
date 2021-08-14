@@ -16,7 +16,7 @@ def hp(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(8.0 / 100)
+        time.sleep(8.0 / 90)
         
         
 print("Hello!I am S M Shakib Hasan ")
