@@ -55,7 +55,7 @@ print('')
 
 sleep(1)
 
-hp(C + (yourname)+ G +"Please Enter Your age... ")
+hp(C + (yourname)+ G +" Please Enter Your age... ")
 
 print('')
     
@@ -85,15 +85,15 @@ age = int(yourage)
 
 if(age <= 12):
     print('')
-    hp(C + (yourname)+ G + "You are kid!")
+    hp(C + (yourname)+ G + " You are kid!")
         
 elif(age <= 18):
     print('')
-    hp(C + (yourname)+ G + "You are teenager!")
+    hp(C + (yourname)+ G + " You are teenager!")
         
 elif(age >= 18):
     print('')
-    hp(C + (yourname)+ G +"You are adult!")
+    hp(C + (yourname)+ G +" You are adult!")
     
 else:
     hp(G +"Sorry system is down!")
