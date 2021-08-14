@@ -36,7 +36,7 @@ hp(R + 'Today I want play your age!')
 print('')
 hp(Y + "Yeah!Do not afraid.")
 hp(W+'')
-hp(G + "--------Let's Stat-------")
+hp(G + "--------> Let's Start <-------")
 print('')
 
 kidage = 12+1
