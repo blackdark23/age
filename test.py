@@ -16,9 +16,12 @@ def hp(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(8.0 / 90)
+        time.sleep(8.0 / 70)
         
         
+system("clear")
+print('')
+hp('')
 print("Hello!I am S M Shakib Hasan ")
 hp(R + 'If you want to do the job')
 hp(G + 'And if you love your job.' )
@@ -29,7 +32,9 @@ hp(G +  '                  --SMSH')
 print('')
 
 hp(R + 'Today I want play your age!')
+print('')
 hp(Y + "Yeah!Do not afraid.")
+hp(W+'')
 hp(G + "--------Let's Stat-------")
 print('')
 
@@ -54,6 +59,6 @@ while (yourage == 'true'):
 
 hp(Y + "Welcome.Thanks you so much.And pray for me.")
 
-print('')
+hp('')
 
 hp(G +          "Allah Hafez         ")
