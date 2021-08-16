@@ -18,13 +18,13 @@ def hp(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(8.0 / 70)
+        time.sleep(8.0 / 60)
         
 def h(s):
     for c in s + '\n':
         sys.stdout.write(c)
         sys.stdout.flush()
-        time.sleep(8.0 / 8)
+        time.sleep(8.0 / 9)
         
 
 system("clear")
@@ -112,7 +112,9 @@ n = str(noo)
 
 if (rslt == y):
     print('')
-    hp(Y + "Welcome.Thank you so much. Pray for me.And a  game made with your age will tell me how you felt. Good luck to you.God bless you.")
+    hp(Y + "Welcome.")
+    hp(C + "Thank you so much.Pray for me.And a game made with your age will tell me how you felt?")
+    hp(C + "Good luck to you.God bless you.")
 
 elif (rslt == n):
     print('')
@@ -120,8 +122,10 @@ elif (rslt == n):
 
 else:
     print('')
-    hp(R + "Invalid type.'y' for yes and 'n' no  Try Again.Thank you.Contract me...")
+    hp(R + "Invalid type.Write yes or no without space.Try Again.Thank you.Contract me...")
     os.system('xdg-open https://facebook.com/smsh.me')
+    os.system('reload')
+
 
 
 print('')
