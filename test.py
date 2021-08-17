@@ -52,9 +52,15 @@ print('')
 
 #stuctr
 
+hp(G +"Please,Submit your name...")
+
+print('')
+
 yourname = input(C+"Your Name:"+ Y + " ")
 
 print('')
+
+hp(G+ "Hello,"+C+(yourname)+"!")
 
 sleep(1)
 
@@ -124,7 +130,7 @@ else:
     print('')
     hp(R + "Invalid type.Write yes or no without space.Try Again.Thank you.Contract me...")
     os.system('xdg-open https://facebook.com/smsh.me')
-    os.system('reload')
+    system('reload')
 
 
 
