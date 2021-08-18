@@ -1,1 +1,231 @@
-I3N5c3RlbUltcG9ydAoKaW1wb3J0IG9zIAppbXBvcnQgc3lzCmltcG9ydCB0aW1lIApmcm9tIG9zIGltcG9ydCBzeXN0ZW0KZnJvbSB0aW1lIGltcG9ydCBzbGVlcAppbXBvcnQgcmVxdWVzdHMKCiNjbHJudW1iZXIKClIgPSAnXDAzM1sxOzMxbScKRyA9ICdcMDMzWzE7MzJtJwpZID0gJ1wwMzNbMTszM20nCkMgPSAnXDAzM1sxOzM2bScKVyA9ICdcMDMzWzE7MzdtJwoKIyMjIyMgTE9HTyAjIyMjIwpsb2dvID0gIiIiClwwMzNbMTs5Nm09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09ClwwMzNbMTs5Nm0gICAgIApcMDMzWzE7OTZtICAgIF9fX18gICAgX18gIF9fICAgX19fXyAgICBfICAgXwpcMDMzWzE7OTJtICAgLyBfX198ICB8ICBcLyAgfCAvIF9fX3wgIHwgfCB8IHwKXDAzM1sxOzk2bSAgIFxfX18gXCAgfCB8XC98IHwgXF9fXyBcICB8IHxffCB8ClwwMzNbMTs5Mm0gICAgX19fKSB8IHwgfCAgfCB8ICBfX18pIHwgfCAgXyAgfApcMDMzWzE7OTZtICAgfF9fX18vICB8X3wgIHxffCB8X19fXy8gIHxffCB8X3wKIApcMDMzWzE7OTNtICAgICBGYWNlYm9vayA6IHd3dy5mYWNlYm9vay5jb20vc21zaC5tZQpcMDMzWzE7OTZtPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CiIiIgoKI2ZvcnRleHRkZXNpZ24KCmRlZiBocChzKToKICAgIGZvciBjIGluIHMgKyAnXG4nOgogICAgICAgIHN5cy5zdGRvdXQud3JpdGUoYykKICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkKICAgICAgICB0aW1lLnNsZWVwKDguMCAvIDYwKQogICAgICAgIApkZWYgaChzKToKICAgIGZvciBjIGluIHMgKyAnXG4nOgogICAgICAgIHN5cy5zdGRvdXQud3JpdGUoYykKICAgICAgICBzeXMuc3Rkb3V0LmZsdXNoKCkKICAgICAgICB0aW1lLnNsZWVwKDguMCAvIDkpCiAgICAgICAgCiAgICAgICAgCiNtYWlucGFnZQoKZGVmIG15YWdlKCk6CiAgICB5b3VybmFtZSA9IGlucHV0KEMrIiBZb3VyIE5hbWU6IisgWSArICIgIikKICAgIAogICAgcHJpbnQoJycpCiAgICAKICAgIGhwKEcrICJIZWxsbywiK0MrKHlvdXJuYW1lKSsiISIpCiAgICAKICAgIHNsZWVwKDEpCiAgICAKICAgIGhwKEMgKyAoeW91cm5hbWUpKyBHICsiIFBsZWFzZSBFbnRlciBZb3VyIGFnZS4uLiAiKQogICAgCiAgICBwcmludCgnJykKICAgICAgICAKICAgIHlvdXJhZ2UgPSBpbnB1dChDKyAiIFlvdXIgQWdlOiIrIFkgKyIgIikKICAgICAgICAKICAgIHByaW50KCcnKQogICAgCiAgICBocChSICsgIllvdXIgYWdlIGlzIE11bHRpcGx5aW5nLi4uICIgKQogICAgCiAgICBwcmludChSICsgIlBsZWFzZSBXYWl0Li4uIikKICAgIAogICAgcHJpbnQoJycpCiAgICAKICAgIHNsZWVwKDEpCiAgICAKICAgIGgoVyArICIxLi4uMjUuLi41MC4uLjc1Li4uODUuLi45MC4uLjEwMCIpCiAgICAKICAgIHByaW50KCcnKQogICAgCiAgICBzbGVlcCgyKQogICAgCiAgICBocChHICsgIk11bHRpcGx5aW5nIHN1Y2Nlc3NmdWxseSBEb25lLi4uISIpCgogICAgc2xlZXAoMSkKICAgIAogICAgYWdlID0gaW50KHlvdXJhZ2UpCiAgICAKICAgIGlmKGFnZSA8PSAxMik6CiAgICAgICAgcHJpbnQoJycpCiAgICAgICAgaHAoQyArICh5b3VybmFtZSkrIEcgKyAiIFlvdSBhcmUga2lkISIpCiAgICAgICAgICAgIAogICAgZWxpZihhZ2UgPD0gMTgpOgogICAgICAgIHByaW50KCcnKQogICAgICAgIGhwKEMgKyAoeW91cm5hbWUpKyBHICsgIiBZb3UgYXJlIHRlZW5hZ2VyISIpCiAgICAgICAgICAgIAogICAgZWxpZihhZ2UgPj0gMTgpOgogICAgICAgIHByaW50KCcnKQogICAgICAgIGhwKEMgKyAoeW91cm5hbWUpKyBHICsiIFlvdSBhcmUgYWR1bHQhIikKICAgICAgICAKICAgIGVsc2U6CiAgICAgICAgaHAoUiArIlNvcnJ5IHN5c3RlbSBpcyBtYXliZSBkb3duISIpCiAgICAgICAgCiN0ZXh0CmRlZiB3cnR0KCk6CiAgICBwcmludCgnJykKICAgIGhwKEcrICIgICAgICAgICAgICAgICAgQWxsYWggSGFmZXogICAgICAgICAgIikKICAgIAogICAgCiNyaWdodE9yV29ybmcKCmRlZiByaWdodCgpOgogICAgcnNsdCA9IGlucHV0KEMgKyJBbSBJIHJpZ2h0Pyh5ZXMvbm8pOiAiKQogICAgCiAgICAKICAgIHJzbHQgPSByc2x0Lmxvd2VyKCkKCgogICAgaWYgJ3llcycgaW4gcnNsdDoKICAgICAgICBwcmludCgnJykKICAgICAgICB5ZXNzID0gcnNsdC5yZXBsYWNlKCd5ZXMnLCcnKQogICAgICAgIGhwKFkgKyAiIFdlbGNvbWUuIikKICAgICAgICBocChDICsgIiBUaGFuayB5b3Ugc28gbXVjaC5QcmF5IGZvciBtZS5BbmQgYSBnYW1lIG1hZGUgd2l0aCB5b3VyIGFnZSB3aWxsIHRlbGwgbWUgaG93IHlvdSBmZWx0PyIpCiAgICAgICAgaHAoQyArICIgR29vZCBsdWNrIHRvIHlvdS5Hb2QgYmxlc3MgeW91LiIpCiAgICAgICAgd3J0dCgpCiAgICAgICAgCiAgICAgICAgCiAgICBlbGlmICJubyIgaW4gcnNsdDoKICAgICAgICBubyA9IHJzbHQucmVwbGFjZSgnbm8nLCcnKQogICAgICAgIHByaW50KCcnKQogICAgICAgIGhwKFkgKyAiIFN5c3RlbSBtYXliZSBkb3duLlRyeSB0byBBZ2Fpbi5UaGFuayB5b3UiKQogICAgICAgIAogICAgZWxzZToKICAgICAgICBwcmludCgnJykKICAgICAgICBocChSICsgIkludmFsaWQgdHlwZS5Xcml0ZSB5ZXMgb3Igbm8gLlRyeSBBZ2Fpbi5UaGFuayB5b3UuQ29udHJhY3QgbWUuLi4iKQogICAgICAgIG9zLnN5c3RlbSgneGRnLW9wZW4gaHR0cHM6Ly9mYWNlYm9vay5jb20vc21zaC5tZScpCiAgICAgICAgcmlnaHQoKQogICAgICAgCiAgICAgICAKI2FsbEZ1bnRpb24KZGVmIHBvbm8oKToKICAgIHByaW50KCcnKQogICAgbXlhZ2UoKQogICAgcHJpbnQoJycpCiAgICByaWdodCgpCiAgICBwcmludCgnJykKICAgICAgIAogICAgICAgCiNwbGF5YWdhaW4gCiAgICAgICAgCmRlZiBwYWcoKToKICAgIHByaW50KCcnKQogICAgcGxheWFnYWluID0gaW5wdXQoQyArICJEbyB5b3Ugd2FudCBwbGF5IEFnYWluPyh5ZXMvbm8pOiIpCiAgICBwbGF5YWdhaW4gPSBwbGF5YWdhaW4ubG93ZXIoKQogICAgCiAgICBpZiAneWVzJyBpbiBwbGF5YWdhaW46CiAgICAgICAgcHJpbnQoJycpCiAgICAgICAgeWUgPSBwbGF5YWdhaW4ucmVwbGFjZSgneWVzJywnJykKICAgICAgICBzbGVlcCgxKQogICAgICAgIHN5c3RlbSgiY2xlYXIiKQogICAgICAgIHByaW50KCJQbGF5IEFnYWluLi4uIikKICAgICAgICBwb25vKCkKICAgICAgICBwcmludCgnJykKICAgICAgICBwYWcoKQogICAgICAgIAogICAgZWxpZiAnbm8nIGluIHBsYXlhZ2FpbjoKICAgICAgICAKICAgICAgICBwcmludCgnJykKICAgICAgICBuYSA9IHBsYXlhZ2Fpbi5yZXBsYWNlKCdubycsJycpCiAgICAgICAgaHAoWSArICIgUGxlYXNlLFR5cGUgQ1RSTCArIEMgZm9yIGNhbmNsZS5UaGFuayB5b3UuIikKICAgIGVsc2U6CiAgICAgICAgcHJpbnQoJycpCiAgICAgICAgaHAoUiArICIgSW52YWxpZCB0eXBlLldyaXRlIHllcyBvciBubyAuVHJ5IEFnYWluLlRoYW5rIHlvdS5Db250cmFjdCBtZS4uLiIpCiAgICAgICAgb3Muc3lzdGVtKCd4ZGctb3BlbiBodHRwczovL2ZhY2Vib29rLmNvbS9zbXNoLm1lJykKICAgICAgICBwcmludCgnJykKICAgICAgICBwYWcoKQoKCgogICAgICAgIAoKc3lzdGVtKCJjbGVhciIpCgpwcmludCgnJykKaHAoJycpCnByaW50KEcgKyAiIEhlbGxvIUkgYW0gUyBNIFNoYWtpYiBIYXNhbiAiKQpocChsb2dvKQoKcHJpbnQoJycpCgpocChSICsgJyBJZiB5b3Ugd2FudCB0byBkbyB0aGUgam9iLicpCmhwKEcgKyAnIEFuZCBpZiB5b3UgbG92ZSB5b3VyIGpvYi4nICkKaHAoUiArICcgVGhlbiBvbmUgZGF5IHlvdSB3aWxsIGJlIHN1Y2Nlc3NmdWwuJykKaHAoQyArICcgSW5zaGFsbGFoLicpCmhwKEcgKyAgJyAgICAgICAgICAgICAgICAgIC0tU01TSCcpCgpwcmludCgnJykKaCgnJykKaHAoWSArICIgR29pbmcgVG8gbmV4dCBwYWdlLi4uLi4uIikKCnNsZWVwKDIpCgoKc3lzdGVtKCJjbGVhciIpCgpwcmludCgnJykKCmhwKFIgKyAnVG9kYXkgSSB3YW50IHBsYXkgeW91ciBhZ2UhJykKCnByaW50KCcnKQoKaHAoWSArICJZZWFoIUFyZSB5b3UgcmVhZHk/ICIpCmhwKFcrJycpCgpocChHICsgIj09PT09PT09PT09PT09PiBMZXQncyBTdGFydCA8PT09PT09PT09PT09IikKCnByaW50KCcnKQoKaHAoRyArIlBsZWF
+#systemImport
+
+import os 
+import sys
+import time 
+from os import system
+from time import sleep
+import requests
+
+#clrnumber
+
+R = '\033[1;31m'
+G = '\033[1;32m'
+Y = '\033[1;33m'
+C = '\033[1;36m'
+W = '\033[1;37m'
+
+##### LOGO #####
+logo = """
+\033[1;96m==============================================
+\033[1;96m     
+\033[1;96m    ____    __  __   ____    _   _
+\033[1;92m   / ___|  |  \/  | / ___|  | | | |
+\033[1;96m   \___ \  | |\/| | \___ \  | |_| |
+\033[1;92m    ___) | | |  | |  ___) | |  _  |
+\033[1;96m   |____/  |_|  |_| |____/  |_| |_|
+ 
+\033[1;93m     Facebook : www.facebook.com/smsh.me
+\033[1;96m=============================================
+"""
+
+#fortextdesign
+
+def hp(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(8.0 / 60)
+        
+def h(s):
+    for c in s + '\n':
+        sys.stdout.write(c)
+        sys.stdout.flush()
+        time.sleep(8.0 / 9)
+        
+        
+#mainpage
+
+def myage():
+    yourname = input(C+" Your Name:"+ Y + " ")
+    
+    print('')
+    
+    hp(G+ "Hello,"+C+(yourname)+"!")
+    
+    sleep(1)
+    
+    hp(C + (yourname)+ G +" Please Enter Your age... ")
+    
+    print('')
+        
+    yourage = input(C+ " Your Age:"+ Y +" ")
+        
+    print('')
+    
+    hp(R + "Your age is Multiplying... " )
+    
+    print(R + "Please Wait...")
+    
+    print('')
+    
+    sleep(1)
+    
+    h(W + "1...25...50...75...85...90...100")
+    
+    print('')
+    
+    sleep(2)
+    
+    hp(G + "Multiplying successfully Done...!")
+
+    sleep(1)
+    
+    age = int(yourage)
+    
+    if(age <= 12):
+        print('')
+        hp(C + (yourname)+ G + " You are kid!")
+            
+    elif(age <= 18):
+        print('')
+        hp(C + (yourname)+ G + " You are teenager!")
+            
+    elif(age >= 18):
+        print('')
+        hp(C + (yourname)+ G +" You are adult!")
+        
+    else:
+        hp(R +"Sorry system is maybe down!")
+        
+#text
+def wrtt():
+    print('')
+    hp(G+ "                Allah Hafez          ")
+    
+    
+#rightOrWorng
+
+def right():
+    rslt = input(C +"Am I right?(yes/no): ")
+    
+    
+    rslt = rslt.lower()
+
+
+    if 'yes' in rslt:
+        print('')
+        yess = rslt.replace('yes','')
+        hp(Y + " Welcome.")
+        hp(C + " Thank you so much.Pray for me.And a game made with your age will tell me how you felt?")
+        hp(C + " Good luck to you.God bless you.")
+        wrtt()
+        
+        
+    elif "no" in rslt:
+        no = rslt.replace('no','')
+        print('')
+        hp(Y + " System maybe down.Try to Again.Thank you")
+        
+    else:
+        print('')
+        hp(R + "Invalid type.Write yes or no .Try Again.Thank you.Contract me...")
+        os.system('xdg-open https://facebook.com/smsh.me')
+        right()
+       
+       
+#allFuntion
+def pono():
+    print('')
+    myage()
+    print('')
+    right()
+    print('')
+       
+       
+#playagain 
+        
+def pag():
+    print('')
+    playagain = input(C + "Do you want play Again?(yes/no):")
+    playagain = playagain.lower()
+    
+    if 'yes' in playagain:
+        print('')
+        ye = playagain.replace('yes','')
+        sleep(1)
+        system("clear")
+        print("Play Again...")
+        pono()
+        print('')
+        pag()
+        
+    elif 'no' in playagain:
+        
+        print('')
+        na = playagain.replace('no','')
+        hp(Y + " Please,Type CTRL + C for cancle.Thank you.")
+    else:
+        print('')
+        hp(R + " Invalid type.Write yes or no .Try Again.Thank you.Contract me...")
+        os.system('xdg-open https://facebook.com/smsh.me')
+        print('')
+        pag()
+
+
+
+        
+
+system("clear")
+
+print('')
+hp('')
+print(G + " Hello!I am S M Shakib Hasan ")
+hp(logo)
+
+print('')
+
+hp(R + ' If you want to do the job.')
+hp(G + ' And if you love your job.' )
+hp(R + ' Then one day you will be successful.')
+hp(C + ' Inshallah.')
+hp(G +  '                  --SMSH')
+
+print('')
+h('')
+hp(Y + " Going To next page......")
+
+sleep(2)
+
+
+system("clear")
+
+print('')
+
+hp(R + 'Today I want play your age!')
+
+print('')
+
+hp(Y + "Yeah!Are you ready? ")
+hp(W+'')
+
+hp(G + "==============> Let's Start <============")
+
+print('')
+
+hp(G +"Please,Submit your name...")
+
+print('')
+
+myage()
+
+print('')
+right()
+print('')
+sleep(1)
+pag()
+
+sleep(60)
+
+print('')
+
